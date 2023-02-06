@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    display:flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-color:hsl(123, 64%, 44%);
+    font-family:'Courier New', Courier, monospace
+  }
+  
+  
+  
+  
+  
